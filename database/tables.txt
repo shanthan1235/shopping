@@ -1,0 +1,12 @@
+mtable
+pics
+gnrl_specs
+platform
+display
+camera
+dimension
+battery
+memory
+netNconn
+multimedia
+others
